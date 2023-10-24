@@ -8,6 +8,6 @@ nºUSP: 11954502
 
 * **Decodificador para 1035**: Fazer o decodificador com porta AND para o número 1035.
 * **"Hello World" em Assembly**: Implementar um programa em linguagem Assembly que imprime "Hello World" utilizando o processador do ICMC.
-* **Atualizar a implementação do Jogo da Nave em Assembly**: 
+* **Jogo da Nave em Assembly**: Atualizar a implementação do joguinho da nave para que ela não suma da tela e sim volte ao início.
 * **Fazer representa~ção da Arquitetura de Harvard**: 
 * **Implementar as Instruções no Simulador**: 
