@@ -7,7 +7,7 @@ Aluno: Felipe Aperecido da Silva
 nºUSP: 11954502 
 
 * **Decodificador para 1035**: Fazer o decodificador com porta AND para o número 1035 como entrada.
-* **"Hello World" em Assembly**: Implementar um programa em linguagem Assembly que imprime "Hello World" utilizando o processador do ICMC.
-* **Jogo da Nave em Assembly**: Atualizar a implementação do joguinho da nave para que ela não suma da tela e sim volte ao início.
+* **Hello World**: Implementar um programa em linguagem Assembly que imprime "Hello World" utilizando o processador do ICMC.
+* **Jogo da Nave**: Atualizar a implementação em Assembly do joguinho da nave no processador do ICMC para que ela não suma da tela e sim volte ao início.
 * **Arquitetura de Harvard**: Fazer representação da arquitetura de Harvard.
 * **Instruções no Simulador**: Implementar as intruções no simulador.
