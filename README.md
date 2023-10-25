@@ -10,4 +10,4 @@ nºUSP: 11954502
 * **Hello World**: Implementar um programa em linguagem Assembly que imprime "Hello World" utilizando o processador do ICMC.
 * **Jogo da Nave**: Atualizar a implementação em Assembly do joguinho da nave no processador do ICMC para que ela não suma da tela e sim volte ao início.
 * **Arquitetura de Harvard**: Fazer representação da arquitetura de Harvard.
-* **Instruções no Simulador**: Implementar as intruções no simulador.
+* **Simulador**: Implementar as intruções no simulador.
