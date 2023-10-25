@@ -1,6 +1,9 @@
 # Organização e Arquitetura de Computadores - Exercícios
 
-Este repositório tem como objetivo organizar os exercícios referente às aulas da disciplina SSC0902 - Organização e Arquitetura de Computadores, ministradas pelo professor Eduardo do Valle Simões.
+Este repositório tem como objetivo organizar os exercícios referente às aulas da disciplina SSC0902 - Organização e Arquitetura de Computadores, ministradas pelo professor Eduardo do Valle Simões. 
+
+É feito o uso do projeto do Processador ICMC, que é um processador RISC de 16 bits implementado em FPGA - todas as ferramentas de software e hardware estão disponíveis no Github do projeto:
+https://github.com/simoesusp/Processador-ICMC
 
 Aluno: Felipe Aperecido da Silva
 
